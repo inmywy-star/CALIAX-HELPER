@@ -7,7 +7,7 @@ This tool has been tested on Chromebook and Windows
 2. **Hold Shift( 5 Second )** -> Turn in to sniping tools mode to capture a screenshot.
 3. **CTRL+ENTER** -> Send question
 
-**How to Use Screenshot?**
+**How to Screenshot?**
 First, hold down the Shift key for 5 seconds. After 5 seconds, the system will enter Snipping Tool mode, allowing you to easily take a screenshot of your browser. You can release the Shift key whenever you want to exit Snipping Tool mode.
 
 ## **How to Install?**
