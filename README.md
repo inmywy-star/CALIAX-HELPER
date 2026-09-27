@@ -13,7 +13,7 @@ First, hold down the Shift key for 5 seconds. After 5 seconds, the system will e
 ## **How to Install?**
 _Note* : This tools has been tested on **Chrome** so its highly recomend to use it in Chrome._
 1. Download **CALIAX-HELPER** and extract the file.
-2. Open Chrome and then open go to **chrome://extensions/**
+2. Open Chrome and then go to **chrome://extensions/**
 3. Turn on **Developer Mode** in the top right corner.
 4. Click **Load Unpacked** button in the top left corner.
 5. Open the extracted file and select **CALIAX EXTENSION**
