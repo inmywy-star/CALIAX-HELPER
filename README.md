@@ -16,5 +16,5 @@ _Note* : This tools has been tested on **Chrome** so its highly recomended to us
 2. Open Chrome and then open go to **chrome://extensions/**
 3. Turn on **Developer Mode** in the top right corner.
 4. Click **Load Unpacked** button in the top left corner.
-5. Select the extracted file
+5. Open the extracted file and select **CALIAX EXTENSION**
 6. Done! you can now enjoy Caliax in **dharmaputri.sokrates.co.id**
