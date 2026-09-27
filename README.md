@@ -11,7 +11,7 @@ This tool has been tested on Chromebook and Windows
 First, hold down the Shift key for 5 seconds. After 5 seconds, the system will enter Snipping Tool mode, allowing you to easily take a screenshot of your browser. You can release the Shift key whenever you want to exit Snipping Tool mode.
 
 ## **How to Install?**
-_Note* : This tools has been tested on **Chrome** so its highly recomended to use it in Chrome._
+_Note* : This tools has been tested on **Chrome** so its highly recomend to use it in Chrome._
 1. Download **CALIAX-HELPER** and extract the file.
 2. Open Chrome and then open go to **chrome://extensions/**
 3. Turn on **Developer Mode** in the top right corner.
